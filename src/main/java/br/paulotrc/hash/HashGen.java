@@ -1,6 +1,5 @@
 package br.paulotrc.hash;
 
-import java.io.Console;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
