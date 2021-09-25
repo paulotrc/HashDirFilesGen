@@ -14,7 +14,7 @@ import java.security.NoSuchAlgorithmException;
  * */
 public class HashGen {
 
-    protected static String MESSAGE_DIGEST_TO_HASH = "MD5";
+    protected static String MESSAGE_DIGEST_TO_HASH = null;
 
     /**
      * This is method main
